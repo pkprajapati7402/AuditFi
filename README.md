@@ -165,9 +165,4 @@
 
 This project is licensed under - see the [LICENSE](LICENSE) file for details.
 
----
 
-## 📬 Contact
-
-- **Twitter**: [@AuditFi_ai](#)  
-- **Email**: [auditfi.ai@gmail.com](mailto:auditfi.ai@gmail.com)
